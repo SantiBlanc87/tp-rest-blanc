@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="tp-rest-blanc" target="1.5" />
+      <module name="tp-rest-blanc" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,0 +1,14 @@
+com\santiblanc\app\converter\AutoConverter.class
+com\santiblanc\app\request\MarcaRequest.class
+com\santiblanc\app\services\AutoService.class
+com\santiblanc\app\entities\Auto.class
+com\santiblanc\app\response\AutoWrapper.class
+com\santiblanc\app\request\AutoRequest.class
+com\santiblanc\app\entities\Marca.class
+com\santiblanc\app\services\MarcaService.class
+com\santiblanc\app\App.class
+com\santiblanc\app\persistence\MarcaDAO.class
+com\santiblanc\app\converter\MarcaConverter.class
+com\santiblanc\app\persistence\AutoDAO.class
+com\santiblanc\app\response\MarcaWrapper.class
+com\santiblanc\app\controllers\AutoController.class
